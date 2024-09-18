@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="w-full md:w-1/4 mb-6 md:mb-0">
               <h3 className="text-xl font-semibold mb-4">Located at</h3>
               <p className="text-sm">
-                Scottsdale, AZ, 85261
+                Scottsdale, AZ
               </p>
             </div>
   
@@ -34,7 +34,7 @@ export default function Footer() {
   
             {/* Customer Section */}
             <div className="w-full md:w-1/4 mb-6 md:mb-0">
-              <h3 className="text-xl font-semibold mb-4">Customers</h3>
+              <h3 className="text-xl font-semibold mb-4">Customer</h3>
               <ul>
                 <li>
                   <a href="/higher-ed" className="text-blue-400 hover:underline">Higher Ed</a>

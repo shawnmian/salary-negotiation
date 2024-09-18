@@ -11,9 +11,8 @@ export default function AboutPage() {
           Our platform provides comprehensive resources on how to prepare for salary discussions, handle negotiations during interviews, and follow up professionally. We believe that with the right information and strategies, you can confidently advocate for the compensation you deserve.
         </p>
         <p className="text-lg leading-relaxed mb-6">
-          Thank you for visiting our guide. We hope you find our resources helpful in your salary negotiation journey. If you have any questions or feedback, please don't hesitate to reach out to us.
+          Thank you for visiting our guide. We hope you find our resources helpful in your salary negotiation journey. If you have any questions or feedback, please do not hesitate to reach out to us.
         </p>
       </div>
     );
   }
-  
